@@ -8,10 +8,10 @@ Puedes convertir el peso de KG a LB y LB a KG
 
 ### Uso
 
-`const kg2lb = require('..').kg2lb;
-const lb2kg = require('..').lb2kg;
-const pasarLibras = kg2lb(1)
-const pasarKilogramos = lb2kg(1) `
+> const kg2lb = require('..').kg2lb
+> const lb2kg = require('..').lb2kg
+> const pasarLibras = kg2lb(1)
+> const pasarKilogramos = lb2kg(1)`
 
 ### Instalacion
 
