@@ -1,0 +1,29 @@
+{
+  "name": "kg2lb",
+  "version": "0.1.0",
+  "description": "Conversor de medidas desafio Platzi",
+  "main": "lib/kg2lb.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlopvi/kg2lb.git"
+  },
+  "keywords": [
+    "platzi"
+  ],
+  "author": "Sacha Lifszyc <jalopezvillatoro@gmail.com> (http://twitter.com/jlopvi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlopvi/kg2lb/issues"
+  },
+  "homepage": "https://github.com/jlopvi/kg2lb#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
